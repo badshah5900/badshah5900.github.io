@@ -1,10 +1,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Naman Mathur
 
 # Your name to show in the footer
-author: Some Person
+author: Naman Mathur
 
 # --- List of links in the navigation bar --- #
 
@@ -34,16 +34,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "namanmathur05@gmail.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
+  github: badshah5900
+  linkedin: naman-mathur-318651167
+  twitter: NamanMathur7
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -69,9 +68,6 @@ share-links-active:
   linkedin: true
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
